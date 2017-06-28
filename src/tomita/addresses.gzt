@@ -1,0 +1,9 @@
+TAuxDicArticle "адрес"
+{
+  key = {"tomita:address.cxx" type=CUSTOM}
+}
+
+streetname "название"
+{
+  key = { "dicts/addresses.txt" type=FILE }
+}

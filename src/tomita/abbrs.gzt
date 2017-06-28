@@ -1,0 +1,76 @@
+TAbbreviation "д."
+{
+	key = { "abbreviation_д." type = CUSTOM }
+	text = "д."
+	type = NewerEOS
+}
+
+TAbbreviation "корп."
+{
+	key = { "abbreviation_корп." type = CUSTOM }
+	text = "корп."
+	type = NewerEOS
+}
+
+TAbbreviation "ул."
+{
+	key = { "abbreviation_ул." type = CUSTOM }
+	text = "ул."
+	type = NewerEOS
+}
+
+TAbbreviation "пр."
+{
+	key = { "abbreviation_пр." type = CUSTOM }
+	text = "пр."
+	type = NewerEOS
+}
+
+TAbbreviation "просп."
+{
+	key = { "abbreviation_просп." type = CUSTOM }
+	text = "просп."
+	type = NewerEOS
+}
+
+TAbbreviation "ш."
+{
+	key = { "abbreviation_ш." type = CUSTOM }
+	text = "ш."
+	type = NewerEOS
+}
+
+TAbbreviation "наб."
+{
+	key = { "abbreviation_наб." type = CUSTOM }
+	text = "наб."
+	type = NewerEOS
+}
+
+TAbbreviation "пл."
+{
+	key = { "abbreviation_пл." type = CUSTOM }
+	text = "пл."
+	type = NewerEOS
+}
+
+TAbbreviation "пер."
+{
+	key = { "abbreviation_пер." type = CUSTOM }
+	text = "пер."
+	type = NewerEOS
+}
+
+TAbbreviation "им."
+{
+	key = { "abbreviation_им." type = CUSTOM }
+	text = "им."
+	type = NewerEOS
+}
+
+TAbbreviation "тов."
+{
+	key = { "abbreviation_тов." type = CUSTOM }
+	text = "тов."
+	type = NewerEOS
+}

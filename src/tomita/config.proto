@@ -1,0 +1,25 @@
+encoding "utf8";
+
+TTextMinerConfig {
+  Dictionary = "dic.gzt"
+
+  MaxNamesCount = 0
+  NumThreads = 8
+
+  BastardMode = outOfDict
+
+  Input = {Dir = "../data"}
+
+	Output = {
+    File = "output/output.json"
+    Format = json
+	}
+
+  Articles = [
+    { Name = "адрес" }
+  ]
+
+	Facts = [
+    { Name = "Street" }
+  ]
+}
